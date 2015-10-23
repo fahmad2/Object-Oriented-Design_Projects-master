@@ -1,0 +1,10 @@
+Customer ID		Miles		Customer Type		Agency			Destination
+  41			8360  		    E	              CHEAPTICKETS		Travel within the Continental US
+  44			7214  		    E	              CHEAPTICKETS		Travel within the Continental US
+  4			27236  		    A	              COLDWIRE		Travel to Asia, Europe, Mexico OR within the Continental US
+  37			7166  		    D	              BETYOURTICKETS		Travel within the Continental US
+  4			11907  		    A	              COLDWIRE		Travel To Mexico OR within the Continental US
+  6			3273  		    B	              GETYOURTICKETS		Travel to Nowhere
+  8			19264  		    B	              COLDWIRE		Travel to Europe, Mexico OR within the Continental US
+  9			2439  		    B	              COLDWIRE		Travel to Nowhere
+  2			6949  		    A	              COLDWIRE		Travel within the Continental US

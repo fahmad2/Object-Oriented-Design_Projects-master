@@ -1,0 +1,1 @@
+public enum TravelAgencyType{ALL, AB, C, DE};
